@@ -2,7 +2,7 @@
 
 Free, private CV builder that produces ATS-friendly CVs and teaches why each rule exists. Everything runs in the browser: no accounts, no backend, no CV data leaves the device. See [DESIGN.md](DESIGN.md) for the plan.
 
-Live: https://cv-ats-generator-rouge.vercel.app
+Live: https://gascv.vercel.app
 
 Stack: Vue 3, Vite, TypeScript, Vue Router, Pinia. UI in Bahasa Indonesia and English.
 
